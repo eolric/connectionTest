@@ -2,4 +2,4 @@ venv/Include
 venv/Scripts
 venv/Lib
 venv/share
-venv/pyenv.cfg
+venv/pyvenv.cfg
