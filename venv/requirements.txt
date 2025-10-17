@@ -1,0 +1,4 @@
+scapy
+pandas
+matplotlib
+speedtest-cli
